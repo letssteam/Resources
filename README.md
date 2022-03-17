@@ -1,8 +1,8 @@
 # ActivitySheets
-Activity sheets of the Let's STEAM project
+Découvrir les fiches d'activités Let's STEAM 
 
-## French version
-### Coding activities
+## Version française
+### Programmation
 
   - [Faisons clignoter une LED](https://letssteam.github.io/ActivitySheets/FR/R1/R1AS01-Faisons_clignoter_une_led.pdf)
   - [Breadboard](https://letssteam.github.io/ActivitySheets/FR/R1/R1AS02-Breadboard.pdf)
@@ -20,14 +20,14 @@ Activity sheets of the Let's STEAM project
   - [Créer un minuteur pour avoir des oeufs parfaitement cuits](https://letssteam.github.io/ActivitySheets/FR/R1/R1AS14-Minuteur_oeufs.pdf)
   - [Collecter des données](https://letssteam.github.io/ActivitySheets/FR/R1/R1AS15-Collecter_donnees.pdf)
 
-### Inclusiveness
+### Inclusion & Equité
 
   - [Design inclusif](https://letssteam.github.io/ActivitySheets/FR/R2/Eleves/R2AS01-Design_inclusif_activite_modeles.pdf)
   - [Mise en œuvre inclusive](https://letssteam.github.io/ActivitySheets/FR/R2/Eleves/R2AS02-Mise_en_oeuvre_inclusive_activite_modeles.pdf)
   - [Confidentialité des données, éthique et sécurité](https://letssteam.github.io/ActivitySheets/FR/R2/Eleves/R2AS03-Confidentialite_securite.pdf)
   - [Promouvoir et partager](https://letssteam.github.io/ActivitySheets/FR/R2/Eleves/R2AS04-Promouvoir_partager.pdf)
 
-### Project Ideas
+### Idées de projet
 
   - [Comment rendre visible l'invisible ?](https://letssteam.github.io/ActivitySheets/FR/Projet/Projet_Rendre_visible_linvisible.pdf)
   - [Préserver la biodiversité](https://letssteam.github.io/ActivitySheets/FR/Projet/Projet_Preserver_biodiversite.pdf)
@@ -37,3 +37,7 @@ Activity sheets of the Let's STEAM project
   - [Gestes barrières](https://letssteam.github.io/ActivitySheets/FR/Projet/Projet_Gestes_Barrieres.pdf)
   - [Consommation raisonnable de chauffage](https://letssteam.github.io/ActivitySheets/FR/Projet/Projet_Consommation_chauffage.pdf)
   - [Musique : Pouvez-vous jouer ce que vous entendez ?](https://letssteam.github.io/ActivitySheets/FR/Projet/Projet_Musique.pdf)
+
+### Créer de nouvelles activités 
+
+  - [Modele réplicable](https://letssteam.github.io/ActivitySheets/FR/Template/Modele_replicable.pdf)
